@@ -1,1 +1,1 @@
-- [ ] Pending task
+- [x] Pending task
