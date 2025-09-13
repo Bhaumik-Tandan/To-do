@@ -1,2 +1,2 @@
-- [x] Pending task
 - [ ] Not done yet
+- [x] Done
